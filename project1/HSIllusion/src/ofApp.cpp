@@ -103,6 +103,12 @@ void ofApp::draw(){
     ofTranslate(ofGetWidth()/4, ofGetHeight()/4);
     bee2.draw(b_pos.x, b_pos.y);
     ofPopMatrix();
+    
+    ofSetColor(honey);
+    ofDrawBox(b_pos.x, b_pos.y, 0, 20);
+//    ofDrawRectRounded(b_pos.x, b_pos.y, 10, 10, 2);
+    
+    //how to draw hexagon??
 }
 
 //--------------------------------------------------------------
