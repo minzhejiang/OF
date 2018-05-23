@@ -10,6 +10,14 @@ None.  All submitted code was written by me.
 ## Video:
 * [Demo video](https://youtu.be/gW1uQSAm7cQ) - A video to show how the interaction works.
 
+
+
+
+
+
+## Screenshot
+ ![alt text](https://github.com/minzhejiang/OF/blob/master/ForPotion/leaptest/Screen%20Shot%202018-03-24%20at%2010.57.22%20PM.png)
+
 ## Author
 
  **Minzhe Jiang** 
