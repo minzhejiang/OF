@@ -37,6 +37,10 @@ The three sensors I used to visualize the data is light, sound and temperature s
   * ofBeginShape ofEndShape ofApp.cpp:180
   * Particle system ofApp.h: 27
 
+## Screeshot
+
+![alt text](https://github.com/minzhejiang/OF/blob/master/ForPotion/Human_microbiome/Screen%20Shot%202018-03-16%20at%2011.52.20%20AM.png)
+
 ## Video:
 * [Demo video](https://youtu.be/A0XIRQw_xGI) - A video to show how the interaction works.
 

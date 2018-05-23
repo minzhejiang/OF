@@ -38,6 +38,19 @@ I used the adafruit circuit playground to control the vibration motor and neopix
         ![alt text](https://github.com/wolfm2/oF_2018SP/blob/master/13_Final/JiangMinzhe/neopixel.jpg)
         ![alt text](https://github.com/wolfm2/oF_2018SP/blob/master/13_Final/JiangMinzhe/bluefruit.jpg)
         
+
+
+
+
+
+
+## Screeshot
+
+ ![alt text](https://github.com/minzhejiang/OF/blob/master/ForPotion/Citizen_scientist/Screen%20Shot%202018-05-11%20at%203.50.25%20AM.png)
+ ![alt text](https://github.com/minzhejiang/OF/blob/master/ForPotion/Citizen_scientist/Screen%20Shot%202018-05-11%20at%203.50.44%20AM.png)
+ ![alt text](https://github.com/minzhejiang/OF/blob/master/ForPotion/Citizen_scientist/Screen%20Shot%202018-05-11%20at%203.50.57%20AM.png)
+
+
 ## Video:
 * [Demo](https://youtu.be/Q7quiWENg5o) - A video presentation to show how the user interface works.
 ## Author
