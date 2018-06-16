@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AD25E813BC8FC5963ECABB80946D355563ACB3E0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7E516C7A9DE20F9F1B181CA196DBE59D2936D5A9" : 9223372036854775807,
+    "AD25E813BC8FC5963ECABB80946D355563ACB3E0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB691AD9-A74C-4B02-9187-F7209824D867",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7E516C7A9DE20F9F1B181CA196DBE59D2936D5A9" : "addons\/ofxOpticalFlowFarneback\/",
+    "AD25E813BC8FC5963ECABB80946D355563ACB3E0" : "ccof\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "flow",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Chapter08-cv\/03-flow\/flow.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/timscaffidi\/ofxOpticalFlowFarneback.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E516C7A9DE20F9F1B181CA196DBE59D2936D5A9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jeffcrouse\/ccof.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD25E813BC8FC5963ECABB80946D355563ACB3E0"
+    }
+  ]
+}
